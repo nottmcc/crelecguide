@@ -8,3 +8,6 @@ This website has been created as a guide for the **MCC College Union Society Ele
 The aim is to present instructions and troubleshoot any issue that may arise while casting your vote.
 
 &copy; [kevinnls](//github.com/kevinnls)
+
+The source can be viewed at the [GitHub repo](//github.com/kevinnls/cuselec).  
+Suggestions and PRs are welcome.
