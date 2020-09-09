@@ -12,8 +12,8 @@ $base-line-height: 1.5 !default;
 
 $spacing-unit: 30px !default;
 
-$text-color: rgb(223, 223, 223) !default;
-$background-color: #333 !default; //change these for light mode
+$text-color: #000 !default; // #000 for light #fff for dark?
+$background-color: #eee !default; // #333 for dark #eee for light?
 $brand-color: #2a7ae2 !default;
 
 $grey-color: #828282 !default;
