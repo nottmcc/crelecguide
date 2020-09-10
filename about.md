@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /cuselec/about/
 ---
 
 This website has been created as a guide for the **MCC College Union Society Elections 2020-2021**.
