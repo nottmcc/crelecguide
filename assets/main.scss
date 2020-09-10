@@ -1,0 +1,38 @@
+---
+---
+
+@import "minima";
+
+$text-color: #000 !default; // #000 for light #fff for dark?
+$background-color: #eee !default; // #333 for dark #eee for light?
+$theme-yellow: #fffaa1 !default;
+$theme-red: #75011f !default;
+
+.site-header {
+  background-color: $theme-yellow;
+}
+.site-title {
+  color: $theme-red !important;
+  &,
+  &:hover {
+    color: lighten($theme-red, 30%) !important;
+  }
+  &,
+  &:visited {
+    color: $theme-red !important;
+  }
+}
+.site-footer {
+  padding: 15px 0;
+}
+.footer-heading {
+  padding: 15px/2;
+}
+summary {
+  cursor: pointer;
+  color: lighten($theme-red, 25%);
+  font-weight: 20;
+}
+h3 {
+  margin-top: 25px;
+}
