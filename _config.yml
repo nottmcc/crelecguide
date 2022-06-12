@@ -16,9 +16,9 @@
 title: Class Representative Elections
 # email: cus@mcc.edu.in
 description: >- # this means to ignore newlines until "baseurl:"
-  A guide for the MCC 
+  A guide for the MCC
   Class Representative Elections 2020-2021.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/crelecguide" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username: jekyll
